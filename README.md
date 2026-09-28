@@ -2,10 +2,6 @@
 
 **A Generative AI-Powered Platform for Natural-Language Data Analysis, Visualization and Business Insights**
 
-### 🚀 Live Demo
-
-👉 https://ai-data-analyst-tanmaya.streamlit.app/
-
 AI Data Analyst is a Streamlit web application that lets a non-technical user upload a CSV/Excel dataset and then explore it the way they'd talk to a human analyst — by asking questions in plain English, reading automatically generated business recommendations, and exporting everything as a PDF report.
 
 ---
